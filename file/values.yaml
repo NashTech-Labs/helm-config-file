@@ -1,0 +1,14 @@
+configmaps:
+  # - name: file1
+  #   data: 
+  #     file.ext: |
+  #       content here
+  #       content here
+  #       content here
+  # - name: file2
+  #   data: 
+  #     file.ext: |
+  #       content here
+  #       content here
+  #       content here
+
